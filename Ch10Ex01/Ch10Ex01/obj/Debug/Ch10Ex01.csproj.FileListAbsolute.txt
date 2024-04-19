@@ -1,0 +1,15 @@
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\bin\Debug\Ch10Ex01.exe.config
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\bin\Debug\Ch10Ex01.exe
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\bin\Debug\Ch10Ex01.pdb
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\obj\Debug\Ch10Ex01.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\obj\Debug\MainWindow.g.cs
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\obj\Debug\App.g.cs
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\obj\Debug\Ch10Ex01_MarkupCompile.cache
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\obj\Debug\Ch10Ex01_MarkupCompile.lref
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\obj\Debug\MainWindow.baml
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\obj\Debug\Ch10Ex01.g.resources
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\obj\Debug\Ch10Ex01.Properties.Resources.resources
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\obj\Debug\Ch10Ex01.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\obj\Debug\Ch10Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\obj\Debug\Ch10Ex01.exe
+C:\Users\Andre\source\repos\Ch10Ex01\Ch10Ex01\obj\Debug\Ch10Ex01.pdb
